@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-03T13:46:16 ICT" name="demo" finished-at="2021-04-03T13:46:29 ICT" duration-ms="12861">
+    <groups>
+    </groups>
+    <test started-at="2021-04-03T13:46:16 ICT" name="testNG" finished-at="2021-04-03T13:46:29 ICT" duration-ms="12861">
+      <class name="modules.TodosTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:modules.TodosTest@69930714]" started-at="2021-04-03T13:46:16 ICT" name="setup" finished-at="2021-04-03T13:46:17 ICT" duration-ms="1478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createNew()[pri:0, instance:modules.TodosTest@69930714]" started-at="2021-04-03T13:46:17 ICT" name="createNew" finished-at="2021-04-03T13:46:21 ICT" duration-ms="3847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNew -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:modules.TodosTest@69930714]" started-at="2021-04-03T13:46:21 ICT" name="tearDown" finished-at="2021-04-03T13:46:22 ICT" duration-ms="647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:modules.TodosTest@69930714]" started-at="2021-04-03T13:46:22 ICT" name="setup" finished-at="2021-04-03T13:46:23 ICT" duration-ms="1104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="markTodoComplete()[pri:0, instance:modules.TodosTest@69930714]" started-at="2021-04-03T13:46:23 ICT" name="markTodoComplete" finished-at="2021-04-03T13:46:24 ICT" duration-ms="1567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- markTodoComplete -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:modules.TodosTest@69930714]" started-at="2021-04-03T13:46:24 ICT" name="tearDown" finished-at="2021-04-03T13:46:25 ICT" duration-ms="588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:modules.TodosTest@69930714]" started-at="2021-04-03T13:46:25 ICT" name="setup" finished-at="2021-04-03T13:46:26 ICT" duration-ms="1152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="removeTodo()[pri:0, instance:modules.TodosTest@69930714]" started-at="2021-04-03T13:46:26 ICT" name="removeTodo" finished-at="2021-04-03T13:46:28 ICT" duration-ms="1862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeTodo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:modules.TodosTest@69930714]" started-at="2021-04-03T13:46:28 ICT" name="tearDown" finished-at="2021-04-03T13:46:29 ICT" duration-ms="597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- modules.TodosTest -->
+    </test> <!-- testNG -->
+  </suite> <!-- demo -->
+</testng-results>
